@@ -16,6 +16,7 @@ caras, es decir, que se haga distición de páginas pares e
 impares. También, insertar una imagen --en alguna seccion-- y hacer que
 el texto rodee la imágen.
 
+<!-- more -->
 
 **Nota**: Puedes obtener la versión del post: [Imágen de fondo, imagen mezclado con texto, paginas pares e impares en LaTeX](https://www.dropbox.com/s/hyu05jzu457je6j/imagen-fondo-imagen-mezclado-con-texto-en-Latex.pdf?dl=0) en fomato pdf.
 
